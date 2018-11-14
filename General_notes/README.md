@@ -1,1 +1,5 @@
-# General notes
+# General Everyday Lab notes
+
+Lab log:
+
+[Day_1](day1.md)
